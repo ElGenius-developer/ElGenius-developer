@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ahmed Ashraf
 - 👀 I’m interested in Software development and Flutter platform ...
--  I'm working with Flutter for more than one year, developed several apps with Flutter.
+-  I'm graduated from 6th of October university college of Computer Science and Information system,  I'm 
+   working with Flutter for more than one year, developed several apps with Flutter.
 - 📫 How to reach me Email: ahmed.abdalmola555@gmail.com , phone : +201006923914 ...
 
 <!---
