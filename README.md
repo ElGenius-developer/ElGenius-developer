@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
 <h3 align="center">A passionate flutter developer from Tanta - Egypt.</h3>
 
-- 🔭 I’m currently working as freelancer **Compu-medical**
+- 🔭 I’m currently working at **Compu-medical**
 
 - 🌱 I’m currently learning **Flutter , HTML , JS, CSS, ASP.Net core**
 
