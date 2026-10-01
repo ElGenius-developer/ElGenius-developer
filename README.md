@@ -51,7 +51,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ElGenius-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ElGenius-developer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ElGenius-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ElGenius-developer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=c%2B%2B,cmake,c,swift,html)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ElGenius-developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
